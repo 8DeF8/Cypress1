@@ -1,0 +1,9 @@
+.idea
+/node_modules/
+/cypress/videos/
+/cypress/screenshots/
+
+user.js
+
+*.code-workspace
+package-lock.json
